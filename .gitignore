@@ -1,0 +1,63 @@
+# === .NET ===
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# === VS ===
+.vs/
+*.dbmdl
+*.bak
+*.log
+
+# === Android output ===
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.apk.idsig
+
+# === Xamarin/Android specifics ===
+*.apk
+*.aab
+*.zip
+*.keystore
+*.pfx
+
+# === IDE config ===
+.idea/
+.gradle/
+.vscode/
+*.code-workspace
+
+# === Build results ===
+build/
+Build/
+[Bb]uild/
+[Bb]in/
+
+# === Auto-generated files ===
+*.designer.cs
+*.g.cs
+*.g.i.cs
+
+# === User-specific files ===
+*.swp
+*~
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === JetBrains Rider ===
+.idea/
+*.sln.iml
+
+# === Others ===
+*.vsconfig

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_edit" android:title="Редактировать" android:icon="@drawable/ic_edit" android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_delete" android:title="Удалить" android:icon="@drawable/ic_delete" android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_reply" android:title="Ответить" android:icon="@drawable/ic_reply" android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_forward" android:title="Переслать" android:icon="@drawable/ic_forward" android:showAsAction="ifRoom"/>
+</menu>

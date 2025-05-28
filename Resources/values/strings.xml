@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="send_button_text">Отправить</string>
+    <string name="chat_message_hint">Введите сообщение</string>
+    <string name="message_send_error">Ошибка отправки сообщения. Попробуйте снова.</string>
+    <string name="invalid_chat_name">Название чата не может быть пустым или содержать только пробелы.</string>
+    <string name="invalid_message">Сообщение не может быть пустым.</string>
+    <string name="enter_chat_name">Введите название чата</string>
+    <string name="default_last_message">Привет! Я робот.</string>
+    <string name="edit_chat_title">Редактировать чат</string>
+    <string name="edit_button">Редактировать</string>
+    <string name="delete_button">Удалить</string>
+    <string name="delete_chat_title">Удалить чат</string>
+    <string name="delete_chat_message">Вы уверены, что хотите удалить этот чат?</string>
+    <string name="chat_activity_title">Чат</string>
+    <string name="no_chats">Нет чатов</string>
+    <string name="add_chat_button">Добавить чат</string>
+    <string name="add_chat_title">Добавить новый чат</string>
+    <string name="chat_name_hint">Название чата</string>
+    <string name="add_button">Добавить</string>
+    <string name="cancel_button">Отменить</string>
+
+    <string name="error_loading_chats">Ошибка загрузки чатов. Пожалуйста, попробуйте позже.</string>
+    <string name="error_loading_messages">Ошибка загрузки сообщений. Пожалуйста, попробуйте позже.</string>
+
+    <string name="save_button">Сохранить</string>
+    <string name="edit_message_hint">Редактировать сообщение</string>
+
+    <string name="delete_messages_title">Delete Messages</string>
+    <string name="chat_name_too_long">Название чата не может превышать %1$d символов</string>
+    <string name="chat_name_too_short">Название чата должно содержать не менее 3 символов</string>
+    <string name="search_chats_hint">Поиск чатов</string>
+    <string name="operation_cancelled">Операция была отменена</string>
+</resources>

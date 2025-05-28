@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="send_button_text">Send</string>
+    <string name="chat_message_hint">Enter your message</string>
+    <string name="message_send_error">Message sending failed. Please try again.</string>
+    <string name="invalid_chat_name">Chat name cannot be empty or only contain spaces.</string>
+    <string name="invalid_message">Message cannot be empty.</string>
+    <string name="enter_chat_name">Enter chat name</string>
+    <string name="default_last_message">Hello! I am the robot.</string>
+    <string name="edit_chat_title">Edit Chat</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    <string name="delete_chat_title">Delete Chat</string>
+    <string name="delete_chat_message">Are you sure you want to delete this chat?</string>
+    <string name="chat_activity_title">Chat</string>
+    <string name="no_chats">No chats</string>
+    <string name="add_chat_button">Add Chat</string>
+    <string name="add_chat_title">Add New Chat</string>
+    <string name="chat_name_hint">Chat Name</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="error_loading_chats">Error loading chats. Please try again later.</string>
+    <string name="error_loading_messages">Error loading messages. Please try again later.</string>
+
+    <string name="delete_messages_title">Delete Messages</string>
+    <string name="chat_name_too_long">Chat name cannot exceed %1$d characters</string>
+    <string name="chat_name_too_short">Chat name must be at least 3 characters</string>
+    <string name="search_chats_hint">Search chats</string>
+    <string name="operation_cancelled">Operation was cancelled</string>
+</resources>
